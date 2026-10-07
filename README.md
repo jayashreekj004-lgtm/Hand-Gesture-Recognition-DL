@@ -197,3 +197,4 @@ MobileNetV2 is used to extract image features and classify hand gestures into pr
 
 ## Project Screenshot
 ![Hand Gesture Recognition](./gesture_prediction.png)
+
