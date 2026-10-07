@@ -196,5 +196,4 @@ This project demonstrates how Deep Learning and Transfer Learning can be used to
 MobileNetV2 is used to extract image features and classify hand gestures into predefined categories. A Gradio interface provides a simple way for users to upload images and view the predicted gesture and confidence score.
 
 ## Project Screenshot
-![Hand Gesture Recognition](./gesture_prediction.png)
 
